@@ -1,0 +1,340 @@
+{
+   "sequences": [
+      {
+         "name": "sequence1",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-07.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-08.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-09.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-10.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-11.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-12.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence1/sequence1-13.mp4"
+            }
+         ],
+         "displayDuration": 20000,
+         "numberOfVideos": 6, 
+         "nextSequence": 1,
+         "soundtrack": "/assets/audio/sequence1.mp3",
+         "songlength": 119 
+      },
+      {
+         "name": "sequence2",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence2/sequence2-07.mp4"
+            }
+         ],
+         "displayDuration": 20000,
+         "numberOfVideos": 6,
+         "nextSequence": 2,
+         "soundtrack": "/assets/audio/sequence2.mp3",
+         "songlength": 119
+      },
+      {
+         "name": "sequence3",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-07.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence3/sequence3-08.mp4"
+            }
+         ],
+         "displayDuration": 10000,
+         "numberOfVideos": 6,
+         "nextSequence": 3,
+         "soundtrack": "/assets/audio/sequence3.mp3",
+         "songlength": 59
+      },
+      {
+         "name": "sequence4",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence4/sequence4-07.mp4"
+            }
+         ],
+         "displayDuration": 20000,
+         "numberOfVideos": 5,
+         "nextSequence": 4,
+         "soundtrack": "/assets/audio/sequence4.mp3",
+         "songlength": 99
+      },
+      {
+         "name": "sequence5",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence5/sequence5-07.mp4"
+            }
+         ],
+         "displayDuration": 10000,
+         "numberOfVideos": 6,
+         "nextSequence": 5,
+         "soundtrack": "/assets/audio/sequence5.mp3",
+         "songlength": 59
+      },
+      {
+         "name": "sequence6",
+         "videos": [
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-01.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-02.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-03.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-04.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-05.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-06.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-07.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-08.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-09.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-10.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-11.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-12.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-13.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-14.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-15.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-16.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-17.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-18.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-19.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-20.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-21.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-22.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-23.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-24.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-25.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-26.mp4"
+            },
+            {
+               "name": "name",
+               "video": "/assets/sequence6/sequence6-27.mp4"
+            }
+         ],
+         "displayDuration": 500,
+         "numberOfVideos": 25,
+         "nextSequence": 0,
+         "soundtrack": "/assets/audio/sequence6.mp3",
+         "songlength": 12
+      }
+   ]
+}

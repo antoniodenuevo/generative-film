@@ -1,0 +1,38 @@
+{
+   "clips": [
+      {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration01.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration02.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration03.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration04.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration05.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration06.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration07.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration08.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration09.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration10.mp3"
+      }, {
+         "name": "name",
+         "audio": "/assets/audio/narration/narration11.mp3"
+      }
+   ]
+}
