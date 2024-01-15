@@ -32,6 +32,8 @@ Just go live, there's no user interaction required :)
 //----------------------------------------------------------------------------
 // PROGRAM VARIABLES
 
+let programStarted = false;
+
 // video playback variables
 let jsonData;
 let myVideosArray = []; // array to store the videos
@@ -76,17 +78,27 @@ function setup() {
 // Draw function
 function draw() {
   background(0);
-  videoSequence(); // main function that handles the logic of the video playback
-  fadeOut() // fades out the soundtrack audio file for each sequence
 
-  // this condition sets timer for audio narration track and plays a narration file
-  if (narrationAudio && millis() - audioTimer > nextAudioPlayTime) {
-    if (!narrationAudio.isPlaying()) {
-      playRandomNarration();
-      resetAudioTimer();
+  if (!programStarted) {
+    fill(255); // Set text color to white
+    textSize(32); // Set text size
+    textAlign(CENTER, CENTER);
+    text("Click to start the film", width / 2, height / 2); // Display the text
+  } else {
+    videoSequence();
+    fadeOut();
+    
+    // existing narration audio code
+    if (narrationAudio && millis() - audioTimer > nextAudioPlayTime) {
+      if (!narrationAudio.isPlaying()) {
+        playRandomNarration();
+        resetAudioTimer();
+      }
     }
   }
 }
+
+
 
 
 //----------------------------------------------------------------------------
@@ -295,6 +307,12 @@ function playRandomNarration() {
     narrationAudio.play();
     narrationAudio.onended(resetAudioTimer); // Reset timer after narration ends
   });
+}
+
+function mouseClicked() {
+  if (!programStarted) {
+    programStarted = true;
+  }
 }
 
 
